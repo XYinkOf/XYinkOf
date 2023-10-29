@@ -1,14 +1,9 @@
 
 # Δ XYink
 
-Hi! I am Ink, a C#/Java coder that loves anything object oriented.
+Hi! I am Ink, a C#/Java dev who loves anything object-oriented.
 
 <img src="https://yt3.googleusercontent.com/VdgDTbo5iXpKRr6a9pea12wkcli5UQCPjQ_gN5fvVboeRZXlZna-AHfus8RrEEI0iYJFJ0gs=s176-c-k-c0x00ffffff-no-rj" style="float: right;" width="250" height="250"> 
-
-**Language I fully know:**
-<p align="left"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-</a></p>
 
 <br>
 
